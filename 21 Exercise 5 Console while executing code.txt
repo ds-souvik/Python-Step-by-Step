@@ -1,0 +1,124 @@
+C:\Users\gangu\anaconda3\python.exe "C:/Users/gangu/PycharmProjects/FirstProg/21 Exercise 5 Health Management System.py"
+**********************************************************************************************
+*****************************HEALTH MANAGEMENT SYSTEM*****************************************
+**********************************************************************************************
+Hello. Please select your action.
+For locking action     : Press 1
+For retrieving data    : Press 2
+3
+Invalid action. Do you want to try again?(Y/N)
+Y
+Hello. Please select your action.
+For locking action     : Press 1
+For retrieving data    : Press 2
+2
+For whom do you want to perform the action?
+For Souvik  : Press 1
+For Atanu   : Press 2
+For Abhijit : Press 3
+1
+What do you want to retrieving?
+For retrieving meals     : Press 1
+For retrieving exercise  : Press 2
+1
+Do you want to continue any other action?(Y/N)
+Y
+Hello. Please select your action.
+For locking action     : Press 1
+For retrieving data    : Press 2
+1
+For whom do you want to perform the action?
+For Souvik  : Press 1
+For Atanu   : Press 2
+For Abhijit : Press 3
+1
+What do you want to lock?
+For locking meals     : Press 1
+For locking exercise  : Press 2
+1
+What did you eat?
+Roti, Mix veg sabzi, Egg curry
+Do you want to continue any other action?(Y/N)
+Y
+Hello. Please select your action.
+For locking action     : Press 1
+For retrieving data    : Press 2
+2
+For whom do you want to perform the action?
+For Souvik  : Press 1
+For Atanu   : Press 2
+For Abhijit : Press 3
+1
+What do you want to retrieving?
+For retrieving meals     : Press 1
+For retrieving exercise  : Press 2
+1
+2020-09-14 03:41:05.060347Roti, Mix veg sabzi, Egg curry
+Do you want to continue any other action?(Y/N)
+Y
+Hello. Please select your action.
+For locking action     : Press 1
+For retrieving data    : Press 2
+1
+For whom do you want to perform the action?
+For Souvik  : Press 1
+For Atanu   : Press 2
+For Abhijit : Press 3
+1
+What do you want to lock?
+For locking meals     : Press 1
+For locking exercise  : Press 2
+2
+What exercise did you do?
+Bench Press
+Do you want to continue any other action?(Y/N)
+Y
+Hello. Please select your action.
+For locking action     : Press 1
+For retrieving data    : Press 2
+2
+For whom do you want to perform the action?
+For Souvik  : Press 1
+For Atanu   : Press 2
+For Abhijit : Press 3
+1
+What do you want to retrieving?
+For retrieving meals     : Press 1
+For retrieving exercise  : Press 2
+2
+2020-09-14 03:42:00.795562Bench Press
+Do you want to continue any other action?(Y/N)
+Y
+Hello. Please select your action.
+For locking action     : Press 1
+For retrieving data    : Press 2
+1
+For whom do you want to perform the action?
+For Souvik  : Press 1
+For Atanu   : Press 2
+For Abhijit : Press 3
+2
+What do you want to lock?
+For locking meals     : Press 1
+For locking exercise  : Press 2
+3
+Invalid locking option. Do you want to continue any other action?(Y/N)
+Y
+Hello. Please select your action.
+For locking action     : Press 1
+For retrieving data    : Press 2
+2
+For whom do you want to perform the action?
+For Souvik  : Press 1
+For Atanu   : Press 2
+For Abhijit : Press 3
+1
+What do you want to retrieving?
+For retrieving meals     : Press 1
+For retrieving exercise  : Press 2
+3
+Invalid retrieving option. Do you want to continue any other action?(Y/N)
+N
+Thanks for using our Health Management System. Take care!!
+
+Process finished with exit code 0
