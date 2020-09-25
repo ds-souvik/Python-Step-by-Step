@@ -4,3 +4,5 @@ It contains the following code patches:
   1. Hello World: This is the first program to start Python programming.
   2. String slicing and other functions: Since String is one of the most important data types used, slicing and various functions on strings are practiced here.
   3. Python Lists And List Functions and tuples: This code patch contains a detailed study of lists, it's functions and tuples.
+  4. Dictionary and it's functions: Dictionary can be defined a Data-set with a key:value structure.  This code patch contains a detailed study of dictionary, it's functions and
+     it's functions.
